@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203990154190",
+    "firebase_url": "https://fir-database-53921-c08e6.firebaseio.com",
+    "project_id": "fir-database-53921",
+    "storage_bucket": "fir-database-53921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203990154190:android:9b296cc413b52dc4",
+        "android_client_info": {
+          "package_name": "com.paditech.quickstartdatabasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203990154190-ofsar9kgkctsjproajte5q7k7kb13gpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paditech.quickstartdatabasefirebase",
+            "certificate_hash": "55A49CABC57F69348649A46A64AECB7AAA9127C2"
+          }
+        },
+        {
+          "client_id": "203990154190-epu5n473kov2g93soqatf6hb4afuscts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nybgTMdAY5-IMMxAcCijXhenJIBs8qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203990154190-epu5n473kov2g93soqatf6hb4afuscts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
